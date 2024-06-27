@@ -18,7 +18,7 @@ This project is a simple web-based random quote generator built using HTML, CSS,
 
 1. Clone the repository or download the ZIP file.
 2. Open `index.html` in your web browser.
-3. Click the "Generate Quote" button to display a new random quote.
+3. Click the "New Quote" button to display a new random quote.
 
 ## Screenshots
 
